@@ -1,74 +1,106 @@
-# Hi, I'm Sirana Saesoo (Namo) 👋
+# Hi, I'm Sirana "Namo" Saesoo 👋
 
 <div align="center">
-  <h1>Sirana "Namo" Saesoo</h1>
+  <h1>Sirana Saesoo (Namo)</h1>
   <p><strong>Age:</strong> 16 &nbsp; • &nbsp; <strong>Study:</strong> Computer Engineering</p>
-  <p>Passionate about building AI models and exploring cybersecurity — especially reverse engineering 🔍🛡️</p>
+  <p>AI model development enthusiast • Cybersecurity & Reverse Engineering explorer 🔬🛡️</p>
 
-  <!-- GitHub Readme Stats -->
+  <!-- Profile banner / small avatar -->
   <p>
-    <img alt="Sirana's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=67991023&show_icons=true&theme=tokyonight&hide_title=true" />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=67991023&layout=compact&theme=tokyonight&hide_title=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=67991023&show_icons=true&theme=nightowl&count_private=true&hide_title=true" alt="Sirana's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=67991023&layout=compact&theme=nightowl&hide_title=true" alt="Top Languages" />
   </p>
 </div>
 
 ---
 
-## About Me
-I’m Sirana (Namo) — a 16-year-old computer engineering student. I love:
-- Designing and experimenting with AI models (LLMs, speech/STT, ML pipelines)
-- Cybersecurity research, with a special interest in reverse engineering and low-level analysis
-- Building full-stack services that connect ML models to real-world apps
+## ✨ At a glance
+- Name: Sirana Saesoo (Nickname: Namo)
+- Age: 16
+- Study: Computer Engineering
+- Interests: AI model development (LLMs, speech/STT, TTS), Cybersecurity, Reverse Engineering
 
-I learn fast, enjoy hands-on projects, and I’m always exploring new areas in AI and security.
-
----
-
-## Skills & Tools
-- Languages: Python, Java, JavaScript, SQL, Bash
-- ML / AI: Jupyter Notebooks, model prototyping, data processing
-- Tools & Frameworks: PyTorch / TensorFlow (learning), NumPy, scikit-learn, REST APIs
-- Cybersecurity: Reverse engineering fundamentals, static analysis, debugging
-- Dev & infra: Git, Docker, basic backend development
+## 🔭 Current focus
+- Building lightweight, efficient AI models and RAG-enabled systems
+- Improving reverse-engineering skills (static & dynamic analysis)
+- Integrating ML backends with realtime services (STT/TTS)
 
 ---
 
-## Featured Projects
-Here are some of my public projects (links go to the repositories in my profile):
-
-- [SamsungLearning](https://github.com/67991023/SamsungLearning) — baseModelforLLM (Jupyter Notebook). Early experiments with LLM foundations and training workflows.
-- [MoodTrack](https://github.com/67991023/MoodTrack) — A JavaScript project for tracking moods and emotional states (front-end / app prototypes).
-- [aegis_backend](https://github.com/67991023/aegis_backend) — Backend service for Aegis AI with RAG-aware emotional TTS functionality (Java-based backend).
-- [recorderAI](https://github.com/67991023/recorderAI) — STT service created for a programming final project (Python).
-- [recorderAIv_2](https://github.com/67991023/recorderAIv_2) — Continued improvements and iterations to recorderAI.
-
-(If you want, I can add mini-demo GIFs or README badges for each project.)
+## 🛠️ Skills & Tools
+- Languages: Python · Java · JavaScript · Shell · SQL
+- ML & AI: Jupyter Notebooks · Model prototyping · Data processing · PyTorch / TensorFlow (learning)
+- Security: Reverse engineering basics · Static analysis · Debugging
+- Dev: Git · Docker · REST APIs · Java backend development
 
 ---
 
-## Current Focus & Goals
-- Build and fine-tune compact, efficient AI models suitable for edge or low-resource deployment.
-- Learn advanced reverse engineering techniques and practical vulnerability analysis.
-- Connect ML backends and real-time services (TTS, STT) into robust, production-ready systems.
-- Share knowledge through clean docs and reproducible notebooks.
+## 🚀 Featured Projects
+- SamsungLearning — baseModelforLLM (Jupyter Notebook): early LLM experiments and training workflows  
+  https://github.com/67991023/SamsungLearning
+- MoodTrack — a JavaScript app for mood tracking and prototypes  
+  https://github.com/67991023/MoodTrack
+- aegis_backend — Backend service with RAG-aware emotional TTS functionality (Java)  
+  https://github.com/67991023/aegis_backend
+- recorderAI / recorderAIv_2 — STT service for programming project (Python)  
+  https://github.com/67991023/recorderAI
+  https://github.com/67991023/recorderAIv_2
+
+(Replace these with demo GIFs: use an image tag with the GIF URL below each project to show the demo.)
 
 ---
 
-## Learning Roadmap
-- Short term: Model finetuning pipelines, better dataset curation, and transfer learning practice.
-- Mid term: Deepen reverse engineering skills — static & dynamic analysis, IDA/Ghidra basics.
-- Long term: Contribute to open-source security tools and build AI-driven security utilities.
+## 📈 Contribution & activity
+- Live contribution calendar (auto-updates):
+  <br/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=67991023&theme=react-dark&hide_border=true" alt="contribution graph" />
+
+- Streak & activity badges:
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=67991023&theme=dark&hide_border=true" alt="streak stats" />
+
+> Note: The numbers (commits last year, PRs, issues, stars) come from GitHub’s API and the contribution calendar that GitHub computes. The images above are generated by readme-stat services that call GitHub’s API and render them as images.
 
 ---
 
-## Let's Connect
+## 📚 Learning Roadmap
+- Short term: better dataset curation, fine-tuning pipelines, experiments in transfer learning
+- Mid term: advanced reverse engineering — IDA/Ghidra basics, instrumentation
+- Long term: build AI-assisted security tooling and contribute to open-source security projects
+
+---
+
+## 💬 Contact
 - GitHub: https://github.com/67991023
-- Email: (add your email here if you'd like it displayed)
-- Projects & contributions: Explore repositories pinned on my profile
+- Email: (add your email here)
+- Discord / Telegram / LinkedIn: add links if you want them public
 
 ---
 
-## Fun little signature
-> "Curiosity + code + coffee = continuous improvement" ☕💻✨
+## ❤️ Support & badges
+[![Github followers](https://img.shields.io/github/followers/67991023?label=Follow&style=social)](https://github.com/67991023)
+[![Top Language](https://img.shields.io/badge/top%20lang-Python-blue?style=flat)](#)
 
-If you'd like a version with a different color theme, animated badges, or embedded demo GIFs for specific projects, tell me which style or projects to highlight next and I'll update the README for you.
+---
+
+## 🎯 Goals I’m working on
+- Produce a compact, deployable LLM for local/edge inference
+- Build a secure STT/TTS pipeline integrated with Aegis backend
+- Learn automated tooling for reversing simple binaries and firmware
+
+---
+
+## ✨ Fun signature
+> “Curiosity + code + persistence = progress.” — Namo ☕💻
+
+---
+
+If you want a version with:
+- A different color theme (solarized, tokyonight, hydro, midnight, etc.) — I can swap the theme params on the image URLs.
+- Animated GIF demos for each project — provide GIFs (or I can generate short screen-recording suggestions).
+- Custom badges (certs, hackathon wins, languages) — tell me what to highlight.
+
+How to install this README (quick)
+1. Create a repository named exactly 67991023 (if it doesn’t exist).
+2. Put this README.md at the repository root on the default branch (usually main).
+3. Commit and push — GitHub will use this README as your profile README when the repo name matches your username.
