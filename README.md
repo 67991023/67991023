@@ -125,9 +125,3 @@ I experiment with small, efficient LLMs, STT/TTS pipelines, and RAG-enabled assi
 5. Ask me and I will generate a matching color palette and re-create the hero GIF and demo GIF templates for you.
 
 ---
-
-## ✨ Closing signature
-<p align="center">
-  <em>“Curiosity, code and courage.”</em><br/>
-  — Sirana "Namo" Saesoo
-</p>
