@@ -89,6 +89,6 @@ I experiment with efficient LLMs, STT/TTS pipelines, RAG assistants and study re
 
 ## 📬 Contact
 - GitHub: https://github.com/67991023
-- Email: EMAIL_HERE
+- Email: 67991023@kmitl.ac.th
 
 ---
