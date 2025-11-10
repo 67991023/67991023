@@ -1,4 +1,4 @@
-```markdown
+
 <!--
 Ultra-decorative Profile README for Sirana "Namo" Saesoo (67991023)
 Instructions:
@@ -131,4 +131,3 @@ I experiment with small, efficient LLMs, STT/TTS pipelines, and RAG-enabled assi
   <em>“Curiosity, code and courage.”</em><br/>
   — Sirana "Namo" Saesoo
 </p>
-```
