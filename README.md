@@ -1,10 +1,8 @@
-
 <!--
 Ultra-decorative Profile README for Sirana "Namo" Saesoo (67991023)
 Instructions:
 - Put this README.md at the root of a PUBLIC repository named exactly `67991023`.
 - Replace EMAIL_HERE and the GIF placeholders with your own assets (store small GIFs in repo under /assets/).
-- For a theme change, swap `theme=radical` to another supported theme in the stat image URLs.
 -->
 
 <!-- HERO BANNER -->
@@ -13,6 +11,7 @@ Instructions:
 </p>
 
 <p align="center">
+  <!-- If you don't have this asset, replace with any image URL or remove this <img> line -->
   <img alt="banner" src="https://raw.githubusercontent.com/67991023/67991023/main/assets/hero-gradient.gif" style="max-width:100%;border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,0.6)"/>
 </p>
 
@@ -22,7 +21,6 @@ Instructions:
     Passionate about building efficient AI models (LLMs, STT/TTS) and exploring cybersecurity + reverse engineering 🛡️🔬
   </p>
 
-  <!-- SOCIAL & BADGES -->
   <p>
     <a href="https://github.com/67991023"><img src="https://img.shields.io/badge/GitHub-67991023-181717?style=for-the-badge&logo=github" alt="github" /></a>
     <a href="mailto:EMAIL_HERE"><img src="https://img.shields.io/badge/Email-EMAIL_HERE-D14836?style=for-the-badge&logo=gmail" alt="email" /></a>
@@ -33,21 +31,15 @@ Instructions:
 
 ---
 
-<!-- DYNAMIC METRICS -->
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=67991023.67991023&right_color=7dd3fc" alt="visitors"/>
   <img src="https://github-readme-stats.vercel.app/api?username=67991023&show_icons=true&theme=radical&count_private=true&hide_title=true" alt="github stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=67991023&layout=compact&theme=radical&hide_title=true" alt="top langs" />
 </div>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=67991023&theme=react-dark&hide_border=true" alt="contrib graph" style="max-width:100%;border-radius:8px"/>
-</p>
-
 ---
 
-## ✨ Visual Highlights & Live Demos
-Replace the demo GIFs below with short 3–6s GIFs stored in /assets/ or hosted CDN (small, <2MB). GIFs make your profile come alive.
+## ✨ Visual Highlights & Demos
+Replace the demo GIFs below with your own GIFs placed at /assets/ or hosted externally.
 
 <div align="center">
   <table>
@@ -78,50 +70,25 @@ Replace the demo GIFs below with short 3–6s GIFs stored in /assets/ or hosted 
 
 ---
 
-## 🚀 What I Build (short)
-I experiment with small, efficient LLMs, STT/TTS pipelines, and RAG-enabled assistants. I study reverse engineering to better secure systems and learn deep software internals. My projects connect ML models with production-style backends (Java/Python).
+## 🚀 What I Build
+I experiment with efficient LLMs, STT/TTS pipelines, RAG assistants and study reverse engineering to secure systems and learn internals.
 
 ---
 
-## 🛠 Stack & Animated Skills Panel
+## 🛠 Stack & Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,git,docker,jupyter" alt="skills" />
 </p>
 
 - Languages: Python · Java · JavaScript · Shell
 - ML & Tools: Jupyter · PyTorch/TensorFlow (learning) · scikit-learn · NumPy
-- Security: Reverse engineering basics, static analysis, debugging (IDA/Ghidra practice)
-- Dev: Git · Docker · REST APIs · Java backend
+- Security: Reverse engineering basics, static analysis, debugging (IDA/Ghidra)
+- Dev: Git · Docker · REST APIs
 
 ---
 
-## 📈 Live Metrics & Decorative Widgets
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=67991023&theme=radical&no-frame=true" alt="trophies" /> &nbsp;
-  <img src="https://img.shields.io/badge/commits-62-yellow?style=flat-square" alt="commits" />
-</p>
-
----
-
-## 🧭 Learning Roadmap
-- Short term: dataset curation, fine-tuning pipelines, reproducible notebooks
-- Mid term: advanced reverse engineering & CTF practice (IDA/Ghidra)
-- Long term: compact LLMs for edge inference, open-source security utilities
-
----
-
-## 💬 Contact & Links
+## 📬 Contact
 - GitHub: https://github.com/67991023
 - Email: EMAIL_HERE
-- (Add LinkedIn / Discord / Telegram links if you want them shown)
-
----
-
-## 🎨 How to make it even more beautiful (tips)
-1. Add small demo GIFs in /assets/ (3–6s, 400–800px width). I placed example names: /assets/demo-*.gif.
-2. Replace the hero GIF (assets/hero-gradient.gif) with a custom animated SVG or MP4->GIF export (keeps profile visually unique).
-3. Add custom SVG badges (animated) for milestones (e.g., "First LLM", "CTF 1st solve", etc.).
-4. Use GitHub Actions to auto-generate small demo GIFs/screenshots after CI runs and push to /assets/.
-5. Ask me and I will generate a matching color palette and re-create the hero GIF and demo GIF templates for you.
 
 ---
