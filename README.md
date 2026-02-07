@@ -71,7 +71,7 @@ Replace the demo GIFs below with your own GIFs placed at /assets/ or hosted exte
 ---
 
 ## 🚀 What I Build
-I experiment with efficient LLMs, STT/TTS pipelines, RAG assistants and study reverse engineering to secure systems and learn internals.
+I experiment with efficient LLMs, STT/TTS pipelines, RAG assistants and study reverse engineering, web security to secure systems and learn internals.
 
 ---
 
@@ -80,9 +80,9 @@ I experiment with efficient LLMs, STT/TTS pipelines, RAG assistants and study re
   <img src="https://skillicons.dev/icons?i=python,java,js,git,docker,jupyter" alt="skills" />
 </p>
 
-- Languages: Python · Java · JavaScript · Shell
+- Languages: Python · Java · JavaScript · Shell · Go
 - ML & Tools: Jupyter · PyTorch/TensorFlow (learning) · scikit-learn · NumPy
-- Security: Reverse engineering basics, static analysis, debugging (IDA/Ghidra)
+- Security: Reverse engineering basics, static analysis, debugging (IDA/Ghidra), web security, pentester
 - Dev: Git · Docker · REST APIs
 
 ---
