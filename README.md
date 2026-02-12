@@ -1,386 +1,401 @@
 <div align="center">
 
-# 🛡️ 67991023
+# 🌌 67991023
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Security%20%7C%20Backend%20%7C%20AI&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Breaking%20Systems%20×%20Building%20Solutions%20×%20Machine%20Learning&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20,24,25,28&text=SECURITY%20×%20AI%20×%20BACKEND&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Breaking%20Systems%20｜%20Building%20Solutions%20｜%20Machine%20Learning&descSize=20&descAlignY=51" width="100%"/>
 
-### 🔐 **Cybersecurity Researcher | Full-Stack Engineer | AI/ML Developer**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=F7347A&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Security+Researcher+%7C+Full-Stack+Engineer;Golang+•+Python+•+AI%2FML+•+DevOps;Building+the+Future+of+Secure+Systems+⚡" alt="Typing SVG" />
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "67991023"
-        self.role = "Security Researcher & Full-Stack Engineer"
-        self.location = "🇹🇭 Thailand"
-        self.interests = [
-            "Web Security & Penetration Testing",
-            "Backend Architecture & DevOps",
-            "Machine Learning & NLP",
-            "Log Management & Observability"
-        ]
-        self.mindset = "Security by design, Scalability by default"
-        self.status = "🔥 Building secure, scalable systems"
-    
-    def get_tech_stack(self):
-        return {
-            "security": ["Golang", "Nuclei", "Burp Suite", "OAST"],
-            "backend": ["Python", "FastAPI", "Node.js", "WebSocket"],
-            "ai_ml": ["scikit-learn", "K-Means", "NLP", "Thai Text Processing"],
-            "devops": ["Docker", "OpenSearch", "Vector", "Nginx"],
-            "frontend": ["React", "Vite", "Chart.js", "TailwindCSS"]
-        }
-```
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=Golang+%7C+Python+%7C+Node.js+%7C+Security+Tools;Web+Scanner+%7C+Log+Management+%7C+ML+Classification;Docker+%7C+Microservices+%7C+Real-time+Systems;From+vulnerability+discovery+to+production+deployment+⚡" alt="Typing SVG" />
-</p>
-
-[![GitHub followers](https://img.shields.io/github/followers/67991023?style=social)](https://github.com/67991023)
-[![GitHub Stars](https://img.shields.io/github/stars/67991023?style=social)](https://github.com/67991023)
+[![Profile Views](https://komarev.com/ghpvc/?username=67991023&color=f7347a&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/67991023)
+[![GitHub Followers](https://img.shields.io/github/followers/67991023?style=for-the-badge&logo=github&logoColor=white&color=8b5cf6&labelColor=1e1e2e)](https://github.com/67991023?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/67991023?style=for-the-badge&logo=github&logoColor=white&color=f59e0b&labelColor=1e1e2e)](https://github.com/67991023?tab=repositories)
 
 </div>
 
 ---
 
-## 🎯 **About Me**
+<div align="center">
 
-ผมเป็น **Security Researcher** และ **Full-Stack Developer** ที่หลงใหลในการ **สร้างเครื่องมือ Security Tools**, **ออกแบบระบบ Backend ขนาดใหญ่**, และ **พัฒนา AI/ML Applications** สำหรับการวิเคราะห์ข้อมูล
+## 🔮 **WHO AM I**
 
-💡 **Philosophy:**  
-> "การรักษาความปลอดภัยที่ดีที่สุด คือการเข้าใจมุมมองของ Attacker และสร้างระบบที่ทน Robust ตั้งแต่ต้น"
+</div>
 
-🔍 **What I Do:**
-- 🛡️ พัฒนา **Web Vulnerability Scanners** และเครื่องมือ **Penetration Testing**
-- ⚙️ สร้าง **Full-Stack Log Management Systems** แบบ Enterprise-grade
-- 🤖 ออกแบบ **AI/ML Systems** สำหรับ Thai Language Processing และ Text Classification
-- 🏗️ พัฒนา **Microservices Architecture** ด้วย Docker และ API Gateway
-- 📊 สร้าง **Real-time Dashboards** สำหรับ Monitoring และ Visualization
+```ascii
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║   👾 CYBERSECURITY RESEARCHER | 🚀 FULL-STACK ARCHITECT | 🤖 AI ENGINEER  ║
+║                                                                           ║
+║   "I don't just code. I architect systems, break vulnerabilities,        ║
+║    and teach machines to think."                                         ║
+║                                                                           ║
+║   🔐 Penetration Testing          🎯 System Architecture                 ║
+║   🛡️ Web Security Tools            ⚡ Real-time Systems                   ║
+║   🤖 Machine Learning             📊 Data Engineering                     ║
+║   🐳 Docker & Microservices       🔥 DevOps & Automation                 ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+### 💀 **TECH ARSENAL**
+
+<img src="https://skillicons.dev/icons?i=go,python,nodejs,java,docker,kubernetes,postgres,mongodb,redis,aws,nginx,linux&perline=12" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,vite,fastapi,express,spring,tensorflow,sklearn,pytorch,grafana,prometheus&perline=10" />
+
+</div>
 
 ---
 
-## 🚀 **Featured Projects**
+<div align="center">
 
-### 🔥 [BurpSuitePro_Fake](https://github.com/67991023/BurpSuitePro_Fake) - **Web Vulnerability Scanner**
-> **Educational Security Tool** เขียนด้วย **Golang** เพื่อเรียนรู้การทำงานของ Burp Suite Pro
+## 🎯 **SIGNATURE PROJECTS**
 
-**🎯 Key Features:**
-- **Intercept Proxy** - ดักจับและแก้ไข HTTP/HTTPS Traffic
-- **Auto Discovery** - Crawler + Fuzzer สำหรับค้นหา Hidden Endpoints
-- **Vulnerability Scanner** - SQL Injection & XSS Detection
-- **Repeater** - Manual Request Modification Tool
-- **Real-time Dashboard** - WebSocket-based Live Monitoring
-- **OAST Integration** - Out-of-Band Interaction Detection
-- **Nuclei Bridge** - Integration with Nuclei Templates
+</div>
 
-**💻 Tech Stack:**  
-`Golang` `TLS/Certificate Handling` `HTTP Proxy` `Goroutines` `WebSocket` `Nuclei` `OAST`
+<table>
+<tr>
+<td width="50%">
+
+### 🔥 [BurpSuitePro_Fake](https://github.com/67991023/BurpSuitePro_Fake)
+**🛡️ Educational Web Security Scanner**
 
 ```go
-// Example: Proxy Architecture
-func main() {
-    targetDomain = "example.com"
-    oastService, _ := StartOAST()
-    caCert, _ := tls.LoadX509KeyPair("ca.crt", "ca.key")
-    
-    go startDashboardServer()  // WebSocket Dashboard
-    go StartCrawler(target)    // Auto Discovery
-    go RunNucleiScan(host)     // Vulnerability Scanning
-    
-    proxyServer := &http.Server{
-        Addr: ":8080",
-        Handler: http.HandlerFunc(handleProxy),
-    }
+// Golang Proxy + Nuclei + OAST
+type Scanner struct {
+    Proxy      *TLSProxy
+    Crawler    *AutoDiscovery
+    Nuclei     *VulnScanner
+    OAST       *OOBDetector
+    Dashboard  *WebSocketUI
 }
 ```
 
-**🔗 Links:**
-- 📖 [Full Documentation](https://github.com/67991023/BurpSuitePro_Fake)
-- 📊 เปรียบเทียบ PortSwigger vs OpenBurp Pro (Excel file included)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Security](https://img.shields.io/badge/Security-FF0000?style=flat-square&logo=hackaday&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-000000?style=flat-square&logo=nuclei&logoColor=white)
 
----
+</td>
+<td width="50%">
 
-### 📊 [CompleteLogManagement](https://github.com/67991023/CompleteLogManagement) - **Enterprise Log Management System**
-> **Full-Stack Log Management Platform** สำหรับ Ingestion, Storage, Search, Visualization, และ Alerting
-
-**🎯 Key Features:**
-- **Multi-Source Ingestion** - Syslog (UDP/TCP), HTTP JSON, File Batch
-- **Centralized Storage** - OpenSearch with Optimized Indexing
-- **Real-time Search** - Fast Full-text Search with Filters
-- **Interactive Dashboard** - React + Vite with Charts (Chart.js)
-- **Alerting System** - Configurable Rules with Webhook Notifications
-- **Authentication & Authorization** - JWT-based with RBAC (Admin/Viewer)
-- **Multi-Tenant Support** - Data Isolation per Tenant
-- **Data Retention** - Automatic Cleanup after 7 Days
-- **Two Deployment Modes** - Appliance (Docker Compose) + SaaS (Cloud HTTPS)
-
-**💻 Tech Stack:**  
-`Python/FastAPI` `React` `Vite` `OpenSearch` `Vector` `Docker Compose` `JWT` `APScheduler` `TailwindCSS` `Nginx`
+### 📊 [CompleteLogManagement](https://github.com/67991023/CompleteLogManagement)
+**🔍 Enterprise Log Platform**
 
 ```python
-# Backend: FastAPI with JWT Authentication
-from fastapi import FastAPI, Depends, HTTPException
-from jose import JWTError, jwt
-
-app = FastAPI()
-
-@app.post("/api/login")
-async def login(credentials: LoginRequest):
-    user = authenticate_user(credentials.username, credentials.password)
-    if not user:
-        raise HTTPException(status_code=401, detail="Invalid credentials")
-    token = create_jwt_token(user)
-    return {"token": token, "role": user.role, "tenant": user.tenant}
-
-@app.get("/api/search")
-async def search_logs(q: str, current_user: User = Depends(get_current_user)):
-    results = opensearch_client.search(
-        index=f"logs-{current_user.tenant}-*",
-        body={"query": {"query_string": {"query": q}}}
-    )
-    return results
+# FastAPI + OpenSearch + Vector
+class LogPipeline:
+    Ingest: Vector
+    Store: OpenSearch
+    API: FastAPI
+    UI: React
+    Auth: JWT + RBAC
 ```
 
-**Architecture:**
-```
-Log Sources → Vector (Collector) → OpenSearch (Storage) 
-    → FastAPI (Backend) → React (Dashboard)
-```
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**🔗 Links:**
-- 📖 [Full Documentation](https://github.com/67991023/CompleteLogManagement)
-- 🎬 [Architecture Diagram](https://github.com/67991023/CompleteLogManagement#architecture)
+</td>
+</tr>
+<tr>
+<td width="50%">
 
----
-
-### 🤖 [recorderAI](https://github.com/67991023/recorderAI) - **Thai Voice Recorder with ML Analytics**
-> **AI-powered Voice Recognition System** สำหรับ Thai Language พร้อม Machine Learning Classification
-
-**🎯 Key Features:**
-- **Thai Speech Recognition** - Google Speech-to-Text API
-- **ML Text Classification** - K-Means Clustering with TF-IDF
-- **Thai Text Processing** - Custom Word Count & Validation
-- **Data Visualization** - Matplotlib Charts & Comprehensive Dashboard
-- **Analysis Reports** - Automated PDF/Text Report Generation
-- **RESTful API** - FastAPI for Web Integration
-- **Docker Support** - Containerized Deployment
-- **Frontend Dashboard** - React-based UI for Recording Management
-
-**💻 Tech Stack:**  
-`Python` `scikit-learn` `K-Means` `TF-IDF` `SpeechRecognition` `pythainlp` `Matplotlib` `FastAPI` `Docker` `PostgreSQL`
+### 🤖 [recorderAI](https://github.com/67991023/recorderAI)
+**🎙️ Thai Voice + ML Analytics**
 
 ```python
-# ML Classification Pipeline
-def ml_text_classification(voice_records):
-    texts = [record['text'] for record in voice_records]
-    
-    # TF-IDF Vectorization
-    vectorizer = TfidfVectorizer(max_features=50)
-    X = vectorizer.fit_transform(texts)
-    
-    # K-Means Clustering
-    n_clusters = min(3, len(texts))
-    kmeans = KMeans(n_clusters=n_clusters, random_state=42)
-    clusters = kmeans.fit_predict(X)
-    
-    # Create DataFrame with Results
-    results_df = pd.DataFrame({
-        'text': texts,
-        'cluster': clusters,
-        'word_count': [fix_thai_word_count(t) for t in texts]
-    })
-    
-    return results_df, vectorizer, kmeans
+# Speech-to-Text + K-Means
+ML_Pipeline = {
+    'Voice': 'Google STT',
+    'NLP': 'Thai Processing',
+    'ML': 'K-Means + TF-IDF',
+    'Viz': 'Matplotlib'
+}
 ```
 
-**🔗 Links:**
-- 📖 [Architecture Documentation](https://github.com/67991023/recorderAI/blob/master/ARCHITECTURE.md)
-- 🎬 [Deployment Guide](https://github.com/67991023/recorderAI/blob/master/DEPLOYMENT.md)
+![AI](https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![ML](https://img.shields.io/badge/ML-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4285F4?style=flat-square&logo=google&logoColor=white)
 
----
+</td>
+<td width="50%">
 
-### 💊 [MoodTrack](https://github.com/67991023/MoodTrack) - **Mental Health Tracking Application**
-> **Full-Stack Mood Tracking Platform** สำหรับ Monitor อารมณ์และสุขภาพจิตประจำวัน
+### 💊 [MoodTrack](https://github.com/67991023/MoodTrack)
+**🧠 Mental Health Platform**
 
-**🎯 Key Features:**
-- **Mood Logging** - บันทึกอารมณ์พร้อม Emoji Selector
-- **Mood Analytics** - กราฟวิเคราะห์อารมณ์ในแต่ละวัน/สัปดาห์/เดือน
-- **Journal Entry** - เขียน Journal พร้อม Rich Text Editor
-- **Authentication** - JWT-based Login System
-- **Data Visualization** - Chart.js for Mood Trends
-- **Responsive Design** - Mobile-first Approach
-- **Deployment Ready** - Vercel-optimized
+```javascript
+// Node.js + Express + MongoDB
+const app = {
+  mood_tracking: 'Daily logs',
+  analytics: 'Chart.js viz',
+  auth: 'JWT tokens',
+  deploy: 'Vercel'
+}
+```
 
-**💻 Tech Stack:**  
-`Node.js` `Express` `MongoDB` `EJS Templates` `Chart.js` `JWT` `Vercel`
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
----
-
-### 🛡️ [aegis_backend](https://github.com/67991023/aegis_backend) - **Microservices Architecture Backend**
-> **Spring Boot Microservices** with Service Discovery, API Gateway, และ AI Service Integration
-
-**🎯 Key Features:**
-- **API Gateway** - Centralized Entry Point
-- **Service Discovery** - Eureka Server
-- **Authentication Service** - Spring Security + JWT
-- **AI Service** - ML Model Integration
-- **Microservices Pattern** - Independent Services
-
-**💻 Tech Stack:**  
-`Java` `Spring Boot` `Spring Cloud` `Eureka` `Spring Security` `Microservices Architecture`
-
----
-
-## 💻 **Tech Stack & Skills**
-
-### 🔐 **Security & Penetration Testing**
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Nuclei](https://img.shields.io/badge/Nuclei-000000?style=for-the-badge&logo=nuclei&logoColor=white)
-![OAST](https://img.shields.io/badge/OAST-FF4500?style=for-the-badge&logo=security&logoColor=white)
-
-**Expertise:**
-- Web Vulnerability Scanning (SQL Injection, XSS, SSRF)
-- Proxy & Traffic Interception
-- Out-of-Band Interaction Detection
-- CTF Problem Solving
-
-### ⚙️ **Backend & API Development**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-**Expertise:**
-- RESTful API Design
-- WebSocket Real-time Communication
-- JWT Authentication & RBAC
-- Microservices Architecture
-
-### 🤖 **AI & Machine Learning**
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-**Expertise:**
-- K-Means Clustering
-- TF-IDF Vectorization
-- Thai Language Processing
-- Text Classification
-
-### 🗄️ **Databases & Storage**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🎨 **Frontend & Visualization**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🛠️ **DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📊 **GitHub Stats**
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=67991023&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=67991023&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=C9D1D9"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=67991023&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=FF6B6B&currStreakLabel=F75C7E)](https://git.io/streak-stats)
+**🛡️ [aegis_backend](https://github.com/67991023/aegis_backend)** - Spring Boot Microservices Architecture  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=flat-square&logo=micro&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 **Highlight Skills**
+<div align="center">
+
+## ⚡ **POWER STATS**
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=67991023&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f7347a&icon_color=8b5cf6&text_color=c9d1d9&ring_color=f7347a&fire_color=f7347a" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=67991023&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f7347a&text_color=c9d1d9" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=67991023&theme=tokyonight&hide_border=true&background=0d1117&stroke=f7347a&ring=f7347a&fire=ff6b6b&currStreakLabel=f7347a&sideLabels=c9d1d9" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=67991023&custom_title=Contribution%20Graph&bg_color=0d1117&color=f7347a&line=8b5cf6&point=f59e0b&area=true&hide_border=true" />
+
+</div>
+
+---
 
 <div align="center">
+
+## 🏆 **GITHUB TROPHIES**
+
+<img src="https://github-profile-trophy.vercel.app/?username=67991023&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 💻 **CODING ACTIVITY**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=67991023&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f7347a&text_color=c9d1d9&layout=compact" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎨 **SKILL MATRIX**
+
+</div>
 
 ```mermaid
-mindmap
-  root((67991023))
-    Security
-      Web Vulnerability Scanning
-      Penetration Testing
-      OAST Detection
-      CTF Challenges
-    Backend
-      API Development
-      Microservices
-      Real-time Systems
-      Authentication & Authorization
-    AI/ML
-      Text Classification
-      NLP Thai Language
-      K-Means Clustering
-      Data Visualization
-    DevOps
-      Docker Containerization
-      Log Management
-      CI/CD Pipeline
-      Cloud Deployment
+%%{init: {'theme':'dark'}}%%
+graph TB
+    A[🌌 67991023] --> B[🔐 Security]
+    A --> C[⚙️ Backend]
+    A --> D[🤖 AI/ML]
+    A --> E[🐳 DevOps]
+    
+    B --> B1[Web Scanning]
+    B --> B2[Penetration Testing]
+    B --> B3[OAST Detection]
+    B --> B4[CTF Solver]
+    
+    C --> C1[API Design]
+    C --> C2[Microservices]
+    C --> C3[Real-time Systems]
+    C --> C4[Authentication]
+    
+    D --> D1[Text Classification]
+    D --> D2[NLP Thai]
+    D --> D3[K-Means Clustering]
+    D --> D4[Data Visualization]
+    
+    E --> E1[Docker]
+    E --> E2[Kubernetes]
+    E --> E3[CI/CD]
+    E --> E4[Monitoring]
+    
+    style A fill:#f7347a,stroke:#fff,stroke-width:4px,color:#fff
+    style B fill:#8b5cf6,stroke:#fff,stroke-width:2px,color:#fff
+    style C fill:#3b82f6,stroke:#fff,stroke-width:2px,color:#fff
+    style D fill:#10b981,stroke:#fff,stroke-width:2px,color:#fff
+    style E fill:#f59e0b,stroke:#fff,stroke-width:2px,color:#fff
 ```
 
+---
+
+<div align="center">
+
+## ��� **CONTRIBUTION HEATMAP**
+
+<img src="https://ghchart.rshah.org/f7347a/67991023" alt="GitHub Contributions Chart" />
+
 </div>
 
 ---
 
-## 🎯 **Current Focus**
+<div align="center">
 
-🔭 **Working On:**
-- 🛡️ Enhancing **BurpSuitePro_Fake** with Advanced Scanning Techniques
-- 📊 Scaling **CompleteLogManagement** for High-Volume Logs (>10K logs/sec)
-- 🤖 Improving **recorderAI** ML Models for Better Thai Text Classification
+## 🌟 **CURRENT FOCUS**
 
-🌱 **Learning:**
-- 🔐 Advanced Web Application Firewall (WAF) Bypass Techniques
-- ☁️ Kubernetes & Cloud-Native Security
-- 🧠 Deep Learning for Security Anomaly Detection
+</div>
 
-💬 **Ask Me About:**
-- Web Security & Vulnerability Assessment
-- Building Scalable Backend Systems
-- Machine Learning for Text Analysis
-- Full-Stack Development Best Practices
+<table>
+<tr>
+<td>
+
+### 🔭 **BUILDING**
+```diff
++ Advanced Vulnerability Scanner
++ Enterprise Log Analytics Platform
++ AI-Powered Security Tools
++ Cloud-Native Microservices
+```
+
+</td>
+<td>
+
+### 🌱 **LEARNING**
+```yaml
+learning:
+  - Advanced Kubernetes Security
+  - Deep Learning for Anomaly Detection
+  - Cloud-Native Architecture
+  - Zero-Trust Security Models
+```
+
+</td>
+<td>
+
+### 💬 **EXPERTISE**
+```json
+{
+  "security": "★★★★★",
+  "backend": "★★★★★",
+  "ai_ml": "★★★★☆",
+  "devops": "★★★★☆"
+}
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 **Connect With Me**
+<div align="center">
+
+## 🎯 **ACHIEVEMENTS**
+
+<img src="https://img.shields.io/badge/CTF-Solver-FF0000?style=for-the-badge&logo=hackaday&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Security-Researcher-8B5CF6?style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-F59E0B?style=for-the-badge&logo=stackshare&logoColor=white" />
+
+</div>
+
+---
 
 <div align="center">
+
+## 💎 **TECH PHILOSOPHY**
+
+> *"Security is not a product, but a process built into every line of code."*
+
+> *"Great systems are not just built — they are architected with intention, scaled with precision, and secured by design."*
+
+> *"AI is not magic. It's mathematics, data, and relentless iteration."*
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 **CONNECT**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/67991023)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 
 </div>
 
 ---
 
-## 📄 **License**
+<div align="center">
 
-Most of my projects are licensed under the **MIT License** - see individual project repositories for details.
+## 📊 **PROFILE DETAILS**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=67991023&theme=tokyonight" />
+
+<table>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=67991023&theme=tokyonight" />
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=67991023&theme=tokyonight" />
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=67991023&theme=tokyonight" />
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=67991023&theme=tokyonight" />
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💡 *"Security is not a product, but a process. Build it right from the start."*
+## 🎬 **LATEST ACTIVITY**
 
-**⚡ Let's build secure, scalable, and intelligent systems together! ⚡**
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=120&section=footer" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 **CONTRIBUTION SNAKE**
+
+<img src="https://raw.githubusercontent.com/67991023/67991023/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ **"Break it. Build it. Secure it. Scale it."** ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20,24,25,28&section=footer" width="100%"/>
+
+[!["Buy Me A Coffee"](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/your-username)
+
+</div>
+
+<div align="center">
+  
+**🔐 Licensed under MIT | 🌟 Star my repos if you find them useful!**
 
 </div>
