@@ -1,10 +1,8 @@
 <div align="center">
 
-# 🌌 67991023
+# 🌌 SIRANA SAESOO
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20,24,25,28&text=SECURITY%20×%20AI%20×%20BACKEND&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Breaking%20Systems%20｜%20Building%20Solutions%20｜%20Machine%20Learning&descSize=20&descAlignY=51" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=F7347A&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Security+Researcher+%7C+Full-Stack+Engineer;Golang+•+Python+•+AI%2FML+•+DevOps;Building+the+Future+of+Secure+Systems+⚡" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=67991023&color=f7347a&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/67991023)
 [![GitHub Followers](https://img.shields.io/github/followers/67991023?style=for-the-badge&logo=github&logoColor=white&color=8b5cf6&labelColor=1e1e2e)](https://github.com/67991023?tab=followers)
@@ -170,75 +168,240 @@ const app = {
 
 <div align="center">
 
-## 🏆 **GITHUB TROPHIES**
-
-<img src="https://github-profile-trophy.vercel.app/?username=67991023&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
-
----
-
-<div align="center">
-
-## 💻 **CODING ACTIVITY**
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=67991023&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f7347a&text_color=c9d1d9&layout=compact" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 🎨 **SKILL MATRIX**
 
 </div>
 
 ```mermaid
-%%{init: {'theme':'dark'}}%%
-graph TB
-    A[🌌 67991023] --> B[🔐 Security]
-    A --> C[⚙️ Backend]
-    A --> D[🤖 AI/ML]
-    A --> E[🐳 DevOps]
+%%{init: {'theme':'dark', 'themeVariables': { 'fontSize':'16px'}}}%%
+mindmap
+  root((🌌 **Sirana Saesoo**))
+    🔐 **Security Engineering**
+      Web Application Security
+        SQL Injection Detection
+        XSS & CSRF Protection
+        SSRF Exploitation
+      Penetration Testing
+        Burp Suite Proficiency
+        Nuclei Template Writing
+        OAST Techniques
+      Security Tools
+        Custom Scanner Development
+        Proxy & Traffic Analysis
+        Vulnerability Research
+      CTF & Competitions
+        Web Challenges
+        Cryptography
+        Reverse Engineering
     
-    B --> B1[Web Scanning]
-    B --> B2[Penetration Testing]
-    B --> B3[OAST Detection]
-    B --> B4[CTF Solver]
+    ⚙️ **Backend Architecture**
+      API Development
+        RESTful Design
+        GraphQL
+        WebSocket Real-time
+        gRPC Microservices
+      Authentication & Authorization
+        JWT Implementation
+        OAuth2 & OIDC
+        RBAC Systems
+        Session Management
+      Database Design
+        PostgreSQL Optimization
+        MongoDB Schemas
+        Redis Caching
+        OpenSearch Indexing
+      Microservices
+        Service Discovery
+        API Gateway
+        Load Balancing
+        Circuit Breakers
     
-    C --> C1[API Design]
-    C --> C2[Microservices]
-    C --> C3[Real-time Systems]
-    C --> C4[Authentication]
+    🤖 **AI & Machine Learning**
+      Natural Language Processing
+        Thai Language Processing
+        Text Classification
+        Sentiment Analysis
+        Named Entity Recognition
+      Machine Learning
+        K-Means Clustering
+        TF-IDF Vectorization
+        Decision Trees
+        Random Forest
+      Deep Learning
+        Neural Networks
+        TensorFlow & PyTorch
+        Model Training & Tuning
+      Data Analysis
+        Data Visualization
+        Statistical Analysis
+        Feature Engineering
+        Model Evaluation
     
-    D --> D1[Text Classification]
-    D --> D2[NLP Thai]
-    D --> D3[K-Means Clustering]
-    D --> D4[Data Visualization]
+    🐳 **DevOps & Infrastructure**
+      Containerization
+        Docker Compose
+        Kubernetes Orchestration
+        Container Security
+        Multi-stage Builds
+      CI/CD Pipeline
+        GitHub Actions
+        Automated Testing
+        Deployment Automation
+        Version Control
+      Monitoring & Logging
+        Prometheus Metrics
+        Grafana Dashboards
+        ELK Stack
+        Distributed Tracing
+      Cloud Platforms
+        AWS Services
+        Cloud Architecture
+        Serverless Functions
+        Infrastructure as Code
     
-    E --> E1[Docker]
-    E --> E2[Kubernetes]
-    E --> E3[CI/CD]
-    E --> E4[Monitoring]
-    
-    style A fill:#f7347a,stroke:#fff,stroke-width:4px,color:#fff
-    style B fill:#8b5cf6,stroke:#fff,stroke-width:2px,color:#fff
-    style C fill:#3b82f6,stroke:#fff,stroke-width:2px,color:#fff
-    style D fill:#10b981,stroke:#fff,stroke-width:2px,color:#fff
-    style E fill:#f59e0b,stroke:#fff,stroke-width:2px,color:#fff
+    🎨 **Frontend Development**
+      Modern Frameworks
+        React & Hooks
+        Vite Build Tool
+        State Management
+        Component Architecture
+      Real-time Features
+        WebSocket Integration
+        Live Updates
+        Push Notifications
+      Data Visualization
+        Chart.js
+        D3.js
+        Custom Dashboards
+      UI/UX Design
+        Responsive Design
+        TailwindCSS
+        Material Design
+        Accessibility
 ```
-
----
 
 <div align="center">
 
-## ��� **CONTRIBUTION HEATMAP**
+### 🏆 **EXPERTISE BREAKDOWN**
 
-<img src="https://ghchart.rshah.org/f7347a/67991023" alt="GitHub Contributions Chart" />
+<table>
+<tr>
+<td align="center" width="25%">
+
+#### 🔐 Security
+```
+██████████ 100%
+```
+**Web Vulnerability Scanning**  
+**Penetration Testing**  
+**OAST Detection**  
+**CTF Problem Solving**
+
+</td>
+<td align="center" width="25%">
+
+#### ⚙️ Backend
+```
+██████████ 100%
+```
+**API Architecture**  
+**Microservices Design**  
+**Real-time Systems**  
+**Database Optimization**
+
+</td>
+<td align="center" width="25%">
+
+#### 🤖 AI/ML
+```
+████████░░ 80%
+```
+**Text Classification**  
+**NLP Thai Processing**  
+**K-Means Clustering**  
+**Data Visualization**
+
+</td>
+<td align="center" width="25%">
+
+#### 🐳 DevOps
+```
+████████░░ 80%
+```
+**Docker & K8s**  
+**CI/CD Pipelines**  
+**Cloud Architecture**  
+**Monitoring & Logging**
+
+</td>
+</tr>
+</table>
+
+### 💻 **TECHNOLOGY PROFICIENCY**
+
+| Category | Technologies | Proficiency |
+|----------|-------------|-------------|
+| **Languages** | Go, Python, JavaScript/Node.js, Java | ![90%](https://progress-bar.dev/90?color=f7347a) |
+| **Security Tools** | Burp Suite, Nuclei, OAST, Custom Scanners | ![95%](https://progress-bar.dev/95?color=8b5cf6) |
+| **Backend Frameworks** | FastAPI, Express, Spring Boot, Gin | ![90%](https://progress-bar.dev/90?color=3b82f6) |
+| **Databases** | PostgreSQL, MongoDB, Redis, OpenSearch | ![85%](https://progress-bar.dev/85?color=10b981) |
+| **AI/ML** | scikit-learn, TensorFlow, PyTorch, NLP | ![75%](https://progress-bar.dev/75?color=f59e0b) |
+| **DevOps** | Docker, Kubernetes, GitHub Actions, AWS | ![80%](https://progress-bar.dev/80?color=ec4899) |
+| **Frontend** | React, Vite, TailwindCSS, Chart.js | ![70%](https://progress-bar.dev/70?color=06b6d4) |
+
+### 🎯 **SKILL HIGHLIGHTS**
+
+<details>
+<summary><b>🔐 Security & Penetration Testing</b></summary>
+
+- ✅ Developed custom web vulnerability scanner from scratch (Golang)
+- ✅ Integrated Nuclei engine for automated security testing
+- ✅ Implemented OAST (Out-of-Band Application Security Testing)
+- ✅ Built HTTP/HTTPS intercept proxy with TLS certificate handling
+- ✅ Created real-time WebSocket dashboard for security monitoring
+- ✅ Expertise in SQL Injection, XSS, CSRF, and SSRF detection
+- ✅ Active CTF participant and security researcher
+
+</details>
+
+<details>
+<summary><b>⚙️ Backend & System Architecture</b></summary>
+
+- ✅ Designed enterprise-grade log management system (10K+ logs/sec)
+- ✅ Built microservices architecture with Spring Boot & Eureka
+- ✅ Implemented JWT authentication with RBAC across multiple services
+- ✅ Created real-time data pipelines with Vector and OpenSearch
+- ✅ Developed RESTful APIs with FastAPI and Node.js/Express
+- ✅ Optimized database queries and implemented caching strategies
+- ✅ Built WebSocket servers for real-time bidirectional communication
+
+</details>
+
+<details>
+<summary><b>🤖 AI & Machine Learning</b></summary>
+
+- ✅ Developed Thai language NLP system with speech-to-text
+- ✅ Implemented K-Means clustering for text classification
+- ✅ Built TF-IDF vectorization pipeline for document analysis
+- ✅ Created custom Thai word segmentation algorithms
+- ✅ Designed ML-powered analytics dashboards
+- ✅ Experience with scikit-learn, TensorFlow, and PyTorch
+- ✅ Data visualization with Matplotlib and interactive charts
+
+</details>
+
+<details>
+<summary><b>🐳 DevOps & Cloud Infrastructure</b></summary>
+
+- ✅ Containerized applications with Docker & Docker Compose
+- ✅ Deployed multi-container systems with orchestration
+- ✅ Set up CI/CD pipelines with GitHub Actions
+- ✅ Implemented monitoring with Prometheus and Grafana
+- ✅ Configured Nginx as reverse proxy and load balancer
+- ✅ Managed cloud deployments on AWS and Vercel
+- ✅ Automated deployment workflows and infrastructure management
+
+</details>
 
 </div>
 
@@ -308,27 +471,12 @@ learning:
 
 <div align="center">
 
-## 💎 **TECH PHILOSOPHY**
-
-> *"Security is not a product, but a process built into every line of code."*
-
-> *"Great systems are not just built — they are architected with intention, scaled with precision, and secured by design."*
-
-> *"AI is not magic. It's mathematics, data, and relentless iteration."*
-
-</div>
-
----
-
-<div align="center">
-
 ## 🌐 **CONNECT**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/67991023)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.67991023@gmail.com)
+
+**💬 Open for collaborations, security research, and interesting projects!**
 
 </div>
 
@@ -365,17 +513,6 @@ learning:
 
 <div align="center">
 
-## 🎬 **LATEST ACTIVITY**
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</div>
-
----
-
-<div align="center">
-
 ## 🐍 **CONTRIBUTION SNAKE**
 
 <img src="https://raw.githubusercontent.com/67991023/67991023/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -390,12 +527,12 @@ learning:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20,24,25,28&section=footer" width="100%"/>
 
-[!["Buy Me A Coffee"](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/your-username)
+**⭐ If you find my work useful, please star my repositories!**
 
 </div>
 
 <div align="center">
   
-**🔐 Licensed under MIT | 🌟 Star my repos if you find them useful!**
+**🔐 Licensed under MIT | 🌟 Thank you for visiting!**
 
 </div>
