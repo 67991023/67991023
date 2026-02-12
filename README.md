@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 SIRANA SAESOO
+# 🌌 Sirana Saesoo
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20,24,25,28&text=SECURITY%20×%20AI%20×%20BACKEND&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Breaking%20Systems%20｜%20Building%20Solutions%20｜%20Machine%20Learning&descSize=20&descAlignY=51" width="100%"/>
 
@@ -172,236 +172,227 @@ const app = {
 
 </div>
 
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'fontSize':'16px'}}}%%
-mindmap
-  root((🌌 **Sirana Saesoo**))
-    🔐 **Security Engineering**
-      Web Application Security
-        SQL Injection Detection
-        XSS & CSRF Protection
-        SSRF Exploitation
-      Penetration Testing
-        Burp Suite Proficiency
-        Nuclei Template Writing
-        OAST Techniques
-      Security Tools
-        Custom Scanner Development
-        Proxy & Traffic Analysis
-        Vulnerability Research
-      CTF & Competitions
-        Web Challenges
-        Cryptography
-        Reverse Engineering
-    
-    ⚙️ **Backend Architecture**
-      API Development
-        RESTful Design
-        GraphQL
-        WebSocket Real-time
-        gRPC Microservices
-      Authentication & Authorization
-        JWT Implementation
-        OAuth2 & OIDC
-        RBAC Systems
-        Session Management
-      Database Design
-        PostgreSQL Optimization
-        MongoDB Schemas
-        Redis Caching
-        OpenSearch Indexing
-      Microservices
-        Service Discovery
-        API Gateway
-        Load Balancing
-        Circuit Breakers
-    
-    🤖 **AI & Machine Learning**
-      Natural Language Processing
-        Thai Language Processing
-        Text Classification
-        Sentiment Analysis
-        Named Entity Recognition
-      Machine Learning
-        K-Means Clustering
-        TF-IDF Vectorization
-        Decision Trees
-        Random Forest
-      Deep Learning
-        Neural Networks
-        TensorFlow & PyTorch
-        Model Training & Tuning
-      Data Analysis
-        Data Visualization
-        Statistical Analysis
-        Feature Engineering
-        Model Evaluation
-    
-    🐳 **DevOps & Infrastructure**
-      Containerization
-        Docker Compose
-        Kubernetes Orchestration
-        Container Security
-        Multi-stage Builds
-      CI/CD Pipeline
-        GitHub Actions
-        Automated Testing
-        Deployment Automation
-        Version Control
-      Monitoring & Logging
-        Prometheus Metrics
-        Grafana Dashboards
-        ELK Stack
-        Distributed Tracing
-      Cloud Platforms
-        AWS Services
-        Cloud Architecture
-        Serverless Functions
-        Infrastructure as Code
-    
-    🎨 **Frontend Development**
-      Modern Frameworks
-        React & Hooks
-        Vite Build Tool
-        State Management
-        Component Architecture
-      Real-time Features
-        WebSocket Integration
-        Live Updates
-        Push Notifications
-      Data Visualization
-        Chart.js
-        D3.js
-        Custom Dashboards
-      UI/UX Design
-        Responsive Design
-        TailwindCSS
-        Material Design
-        Accessibility
-```
-
-<div align="center">
-
-### 🏆 **EXPERTISE BREAKDOWN**
-
 <table>
 <tr>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-#### 🔐 Security
-```
-██████████ 100%
-```
-**Web Vulnerability Scanning**  
-**Penetration Testing**  
-**OAST Detection**  
-**CTF Problem Solving**
+### 🔐 **SECURITY ENGINEERING**
 
-</td>
-<td align="center" width="25%">
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'fontSize':'18px'}}}%%
+mindmap
+  root((🔐 Security))
+    Web Application Security
+      SQL Injection
+      XSS & CSRF
+      SSRF
+    Penetration Testing
+      Burp Suite
+      Nuclei
+      OAST
+    Security Tools
+      Custom Scanners
+      Proxy Analysis
+      Vuln Research
+    CTF Competitions
+      Web Challenges
+      Cryptography
+      Reverse Engineering
+```
 
-#### ⚙️ Backend
-```
-██████████ 100%
-```
-**API Architecture**  
-**Microservices Design**  
-**Real-time Systems**  
-**Database Optimization**
-
-</td>
-<td align="center" width="25%">
-
-#### 🤖 AI/ML
-```
-████████░░ 80%
-```
-**Text Classification**  
-**NLP Thai Processing**  
-**K-Means Clustering**  
-**Data Visualization**
+**Key Achievements:**
+- ✅ Built custom web vulnerability scanner (Golang)
+- ✅ Integrated Nuclei automation engine
+- ✅ Developed OAST detection system
+- ✅ Created real-time security dashboard
 
 </td>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-#### 🐳 DevOps
+### ⚙️ **BACKEND ARCHITECTURE**
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'fontSize':'18px'}}}%%
+mindmap
+  root((⚙️ Backend))
+    API Development
+      RESTful APIs
+      GraphQL
+      WebSocket
+      gRPC
+    Authentication
+      JWT Tokens
+      OAuth2
+      RBAC
+    Database Design
+      PostgreSQL
+      MongoDB
+      Redis
+      OpenSearch
+    Microservices
+      Service Discovery
+      API Gateway
+      Load Balancing
 ```
-████████░░ 80%
+
+**Key Achievements:**
+- ✅ Enterprise log system (10K+ logs/sec)
+- ✅ Microservices with Spring Boot
+- ✅ JWT + RBAC authentication
+- ✅ Real-time data pipelines
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 **AI & MACHINE LEARNING**
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'fontSize':'18px'}}}%%
+mindmap
+  root((🤖 AI/ML))
+    Natural Language Processing
+      Thai Language
+      Text Classification
+      Sentiment Analysis
+    Machine Learning
+      K-Means
+      TF-IDF
+      Decision Trees
+    Deep Learning
+      Neural Networks
+      TensorFlow
+      PyTorch
+    Data Analysis
+      Visualization
+      Statistical Analysis
+      Feature Engineering
 ```
-**Docker & K8s**  
-**CI/CD Pipelines**  
-**Cloud Architecture**  
-**Monitoring & Logging**
+
+**Key Achievements:**
+- ✅ Thai NLP with speech-to-text
+- ✅ K-Means clustering pipeline
+- ✅ TF-IDF vectorization system
+- ✅ ML-powered analytics dashboards
+
+</td>
+<td width="50%" valign="top">
+
+### 🐳 **DEVOPS & INFRASTRUCTURE**
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'fontSize':'18px'}}}%%
+mindmap
+  root((🐳 DevOps))
+    Containerization
+      Docker
+      Kubernetes
+      Container Security
+    CI/CD Pipeline
+      GitHub Actions
+      Automated Testing
+      Deployment
+    Monitoring
+      Prometheus
+      Grafana
+      ELK Stack
+    Cloud Platforms
+      AWS Services
+      Serverless
+      Infrastructure as Code
+```
+
+**Key Achievements:**
+- ✅ Docker & Kubernetes deployments
+- ✅ CI/CD with GitHub Actions
+- ✅ Prometheus + Grafana monitoring
+- ✅ Cloud architecture on AWS
 
 </td>
 </tr>
 </table>
 
-### 💻 **TECHNOLOGY PROFICIENCY**
+---
 
-| Category | Technologies | Proficiency |
-|----------|-------------|-------------|
-| **Languages** | Go, Python, JavaScript/Node.js, Java | ![90%](https://progress-bar.dev/90?color=f7347a) |
-| **Security Tools** | Burp Suite, Nuclei, OAST, Custom Scanners | ![95%](https://progress-bar.dev/95?color=8b5cf6) |
-| **Backend Frameworks** | FastAPI, Express, Spring Boot, Gin | ![90%](https://progress-bar.dev/90?color=3b82f6) |
-| **Databases** | PostgreSQL, MongoDB, Redis, OpenSearch | ![85%](https://progress-bar.dev/85?color=10b981) |
-| **AI/ML** | scikit-learn, TensorFlow, PyTorch, NLP | ![75%](https://progress-bar.dev/75?color=f59e0b) |
-| **DevOps** | Docker, Kubernetes, GitHub Actions, AWS | ![80%](https://progress-bar.dev/80?color=ec4899) |
-| **Frontend** | React, Vite, TailwindCSS, Chart.js | ![70%](https://progress-bar.dev/70?color=06b6d4) |
+<div align="center">
 
-### 🎯 **SKILL HIGHLIGHTS**
+### 💻 **TECHNOLOGY STACK**
 
-<details>
-<summary><b>🔐 Security & Penetration Testing</b></summary>
+<table>
+<tr>
+<td align="center" width="20%">
 
-- ✅ Developed custom web vulnerability scanner from scratch (Golang)
-- ✅ Integrated Nuclei engine for automated security testing
-- ✅ Implemented OAST (Out-of-Band Application Security Testing)
-- ✅ Built HTTP/HTTPS intercept proxy with TLS certificate handling
-- ✅ Created real-time WebSocket dashboard for security monitoring
-- ✅ Expertise in SQL Injection, XSS, CSRF, and SSRF detection
-- ✅ Active CTF participant and security researcher
+#### 🔐 Security
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)  
+![Nuclei](https://img.shields.io/badge/Nuclei-000000?style=for-the-badge&logo=nuclei&logoColor=white)
 
-</details>
+**Core Skills:**
+- Web Scanning
+- Penetration Testing
+- OAST Detection
+- CTF Solving
 
-<details>
-<summary><b>⚙️ Backend & System Architecture</b></summary>
+</td>
+<td align="center" width="20%">
 
-- ✅ Designed enterprise-grade log management system (10K+ logs/sec)
-- ✅ Built microservices architecture with Spring Boot & Eureka
-- ✅ Implemented JWT authentication with RBAC across multiple services
-- ✅ Created real-time data pipelines with Vector and OpenSearch
-- ✅ Developed RESTful APIs with FastAPI and Node.js/Express
-- ✅ Optimized database queries and implemented caching strategies
-- ✅ Built WebSocket servers for real-time bidirectional communication
+#### ⚙️ Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-</details>
+**Core Skills:**
+- API Design
+- Microservices
+- Real-time Systems
+- Authentication
 
-<details>
-<summary><b>🤖 AI & Machine Learning</b></summary>
+</td>
+<td align="center" width="20%">
 
-- ✅ Developed Thai language NLP system with speech-to-text
-- ✅ Implemented K-Means clustering for text classification
-- ✅ Built TF-IDF vectorization pipeline for document analysis
-- ✅ Created custom Thai word segmentation algorithms
-- ✅ Designed ML-powered analytics dashboards
-- ✅ Experience with scikit-learn, TensorFlow, and PyTorch
-- ✅ Data visualization with Matplotlib and interactive charts
+#### 🤖 AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-</details>
+**Core Skills:**
+- Text Classification
+- NLP Thai
+- K-Means Clustering
+- Data Viz
 
-<details>
-<summary><b>🐳 DevOps & Cloud Infrastructure</b></summary>
+</td>
+<td align="center" width="20%">
 
-- ✅ Containerized applications with Docker & Docker Compose
-- ✅ Deployed multi-container systems with orchestration
-- ✅ Set up CI/CD pipelines with GitHub Actions
-- ✅ Implemented monitoring with Prometheus and Grafana
-- ✅ Configured Nginx as reverse proxy and load balancer
-- ✅ Managed cloud deployments on AWS and Vercel
-- ✅ Automated deployment workflows and infrastructure management
+#### 🐳 DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-</details>
+**Core Skills:**
+- Containerization
+- CI/CD Pipelines
+- Cloud Architecture
+- Monitoring
+
+</td>
+<td align="center" width="20%">
+
+#### 💾 Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Core Skills:**
+- SQL Optimization
+- NoSQL Design
+- Caching Strategy
+- Search Indexing
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -445,7 +436,7 @@ learning:
 {
   "security": "★★★★★",
   "backend": "★★★★★",
-  "ai_ml": "★★★★☆",
+  "ai_ml": "���★★★☆",
   "devops": "★★★★☆"
 }
 ```
