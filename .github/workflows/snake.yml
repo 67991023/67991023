@@ -53,7 +53,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
-      # ขั้นตอนที่ 4: แสดงสถานะเมื่อสำเร็จ
+      # ขั้นตอนที่ 4: แสดงสถานะเมื่อสำเร��จ
       - name: Job completed
         run: |
           echo "✅ Snake animation generated successfully!"
