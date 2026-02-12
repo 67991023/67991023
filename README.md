@@ -1,94 +1,186 @@
-<!--
-Ultra-decorative Profile README for Sirana "Namo" Saesoo (67991023)
-Instructions:
-- Put this README.md at the root of a PUBLIC repository named exactly `67991023`.
-- Replace EMAIL_HERE and the GIF placeholders with your own assets (store small GIFs in repo under /assets/).
--->
+<div align="center">
 
-<!-- HERO BANNER -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=800&color=7DD3FC&center=true&width=920&lines=Sirana+%22Namo%22+Saesoo+•+Computer+Engineering;16+years+old+%E2%9D%A4%EF%B8%8F;AI+model+builder+%26+Reverse+Engineering+%F0%9F%94%8D" alt="typing">
-</p>
+# 🌌 Welcome to My Digital Universe
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=67991023&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+
+### 💫 Developer | Creator | Innovator
 
 <p align="center">
-  <!-- If you don't have this asset, replace with any image URL or remove this <img> line -->
-  <img alt="banner" src="https://raw.githubusercontent.com/67991023/67991023/main/assets/hero-gradient.gif" style="max-width:100%;border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,0.6)"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Crafting+digital+experiences;Building+the+future,+one+commit+at+a+time;Always+learning,+forever+growing" alt="Typing SVG" />
 </p>
+
+---
+
+### 🎯 **About Me**
+
+```typescript
+const developer = {
+    username: "67991023",
+    location: "🌏 Thailand",
+    interests: ["💻 Coding", "🎨 Design", "🚀 Innovation"],
+    currentFocus: "Building something amazing",
+    lifePhilosophy: "Code with passion, create with purpose",
+    status: "🔥 Always pushing commits",
+};
+```
+
+---
+
+### 🛠️ **Tech Arsenal**
 
 <div align="center">
-  <p>
-    <strong>Sirana "Namo" Saesoo</strong> — Age: 16 • Computer Engineering student<br/>
-    Passionate about building efficient AI models (LLMs, STT/TTS) and exploring cybersecurity + reverse engineering 🛡️🔬
-  </p>
 
-  <p>
-    <a href="https://github.com/67991023"><img src="https://img.shields.io/badge/GitHub-67991023-181717?style=for-the-badge&logo=github" alt="github" /></a>
-    <a href="mailto:EMAIL_HERE"><img src="https://img.shields.io/badge/Email-EMAIL_HERE-D14836?style=for-the-badge&logo=gmail" alt="email" /></a>
-    <a href="https://github.com/67991023?tab=repositories"><img src="https://img.shields.io/badge/Repositories-view-0366d6?style=for-the-badge" alt="repos" /></a>
-    <a href="https://github.com/67991023?tab=followers"><img src="https://img.shields.io/github/followers/67991023?label=Follow&style=for-the-badge" alt="followers" /></a>
-  </p>
+#### 🎨 **Frontend Magic**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### ⚙️ **Backend Power**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### 🧰 **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+### 📊 **GitHub Stats**
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=67991023&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=67991023&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=67991023&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### 🏆 **GitHub Trophies**
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=67991023&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+### 🌟 **Featured Projects**
+
+<div align="center">
+
+<a href="https://github.com/67991023?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=67991023&repo=your-awesome-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+</a>
+
+<a href="https://github.com/67991023?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=67991023&repo=another-cool-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+</a>
+
+</div>
+
+---
+
+### 📈 **Contribution Graph**
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=67991023&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+### 💭 **Random Dev Quote**
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+### 🎵 **Currently Vibing To**
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00d9ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
+
+</div>
+
+---
+
+### 🌐 **Connect With Me**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+### 💖 **Support My Work**
+
+<div align="center">
+
+If you like what I do, consider buying me a coffee! ☕
+
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/yourprofile)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourprofile)
+
+</div>
+
+---
+
+### 📊 **Profile Views**
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=67991023&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+### 🐍 **Contribution Snake**
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/67991023/67991023/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=67991023&show_icons=true&theme=radical&count_private=true&hide_title=true" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=67991023&layout=compact&theme=radical&hide_title=true" alt="top langs" />
+
+### 💡 *"The only way to do great work is to love what you do."* 
+
+**✨ Let's build something extraordinary together! ✨**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
 </div>
-
----
-
-## ✨ Visual Highlights & Demos
-Replace the demo GIFs below with your own GIFs placed at /assets/ or hosted externally.
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="260">
-        <b><a href="https://github.com/67991023/SamsungLearning">SamsungLearning</a></b><br/>
-        baseModelforLLM • Notebooks<br/>
-        <img src="https://raw.githubusercontent.com/67991023/67991023/main/assets/demo-samsung.gif" alt="Samsung demo" width="240" style="border-radius:8px;box-shadow:0 8px 22px rgba(0,0,0,0.5)"/>
-      </td>
-      <td align="center" width="260">
-        <b><a href="https://github.com/67991023/MoodTrack">MoodTrack</a></b><br/>
-        JavaScript mood tracker<br/>
-        <img src="https://raw.githubusercontent.com/67991023/67991023/main/assets/demo-mood.gif" alt="Mood demo" width="240" style="border-radius:8px;box-shadow:0 8px 22px rgba(0,0,0,0.5)"/>
-      </td>
-      <td align="center" width="260">
-        <b><a href="https://github.com/67991023/aegis_backend">aegis_backend</a></b><br/>
-        RAG-aware emotional TTS (Java)<br/>
-        <img src="https://raw.githubusercontent.com/67991023/67991023/main/assets/demo-aegis.gif" alt="Aegis demo" width="240" style="border-radius:8px;box-shadow:0 8px 22px rgba(0,0,0,0.5)"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="3" align="center" style="padding-top:10px">
-        <b><a href="https://github.com/67991023/recorderAI">recorderAI / recorderAIv_2</a></b> — STT service (Python) • Classroom/project demos
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🚀 What I Build
-I experiment with efficient LLMs, STT/TTS pipelines, RAG assistants and study reverse engineering, web security to secure systems and learn internals.
-
----
-
-## 🛠 Stack & Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,git,docker,jupyter" alt="skills" />
-</p>
-
-- Languages: Python · Java · JavaScript · Shell · Go
-- ML & Tools: Jupyter · PyTorch/TensorFlow (learning) · scikit-learn · NumPy
-- Security: Reverse engineering basics, static analysis, debugging (IDA/Ghidra), web security, pentester
-- Dev: Git · Docker · REST APIs
-
----
-
-## 📬 Contact
-- GitHub: https://github.com/67991023
-- Email: 67991023@kmitl.ac.th
-
----
