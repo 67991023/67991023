@@ -1,61 +1,38 @@
 name: Generate Snake Animation
 
-# กำหนดเวลาที่จะรัน workflow
 on:
-  # รันทุกวันเวลา 00:00 UTC (07:00 เวลาไทย)
   schedule:
     - cron: "0 0 * * *"
-  
-  # อนุญาตให้รันด้วยตัวเอง (Manual trigger)
   workflow_dispatch:
-  
-  # รันทุกครั้งที่ push ไป main branch
   push:
     branches:
       - main
 
 jobs:
   generate:
-    # ใช้ Ubuntu runner ล่าสุด
     runs-on: ubuntu-latest
-    
-    # กำหนดเวลาสูงสุดในการรัน (10 นาที)
     timeout-minutes: 10
     
-    # กำหนด permissions ที่จำเป็น
     permissions:
       contents: write
     
     steps:
-      # ขั้นตอนที่ 1: Checkout repository
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
       
-      # ขั้นตอนที่ 2: สร้าง Snake animation
       - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: 67991023
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
-      # ขั้นตอนที่ 3: Push ไฟล์ที่สร้างไปยัง output branch
-      - name: Push github-contribution-grid-snake.svg to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
           commit_message: "Update snake animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
-      # ขั้นตอนที่ 4: แสดงสถานะเมื่อสำเร��จ
-      - name: Job completed
-        run: |
-          echo "✅ Snake animation generated successfully!"
-          echo "📁 Files created in 'output' branch"
-          echo "🐍 Available at: https://raw.githubusercontent.com/67991023/67991023/output/github-contribution-grid-snake-dark.svg"
